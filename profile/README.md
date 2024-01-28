@@ -3,7 +3,7 @@
 
 <!-- Short Description -->
 <p align="center">
-  A group messaging  application built on the PERN stack, integrating key technologies like PWA for enhanced functionality.
+  A group messaging  application built on the PERN stack, integrating key technologies like PWA, real time messaging etc. for enhanced user experience
 </p>
 
 <!-- Badges (if any) -->
@@ -45,12 +45,14 @@ Aidchat is a progressive web application (PWA) designed to provide a supportive 
 - **Frontend**:
   - React.js
   - HTML/CSS
-  - PWA Features
+  - PWA concepts
+    
   
 - **Backend**:
   - PostgreSQL
   - Express.js
   - Node.js
+  - Cloudinary(Image storage)
   
 - **Additional Technologies**:
   - WebSocket (for real-time messaging)
