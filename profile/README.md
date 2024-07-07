@@ -40,6 +40,6 @@ This project is licensed under the MIT License.
 
 ---
 
-Building with ❤️,🧠 & 💪 by someone who has felt the need of this is important. [Vipul Dev](https://github.com/vipul-dev)
+Building with ❤️,🧠 & 💪 by someone who has felt the need of this is important. [Vipul Dev](https://github.com/vipulxd)
 
 ---
