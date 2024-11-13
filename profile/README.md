@@ -4,7 +4,7 @@
 
 ## About AidChat
 
-AidChat is a progressive web application (PWA) designed to create a supportive community for mental health support. Connect with others, join interest-based groups, and enjoy secure, real-time messaging to share and receive guidance.
+Aidchat helps you fight your mental challenges. Wanna know how visit https://aidchat.in
 
 ## 🚀 Key Features
 
