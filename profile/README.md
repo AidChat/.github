@@ -1,4 +1,4 @@
-# ⚕️ AidChat: An Aid for ourselfs ⚕️
+# ⚕️ AidChat: An Aid for ourselves ⚕️
 
 ![AidChat Logo](https://github.com/AidChat/client/blob/main/src/assets/svg/logo-no-background.svg)
 
